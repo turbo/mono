@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_mkbundle.-1730173274.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../../../external/ikvm/reflect" t="Include">
+      <e p="AmbiguousMatchException.cs" t="Include" />
+      <e p="Assembly.cs" t="Include" />
+      <e p="AssemblyName.cs" t="Include" />
+      <e p="BadImageFormatException.cs" t="Include" />
+      <e p="Binder.cs" t="Include" />
+      <e p="ConstructorInfo.cs" t="Include" />
+      <e p="CustomAttributeData.cs" t="Include" />
+      <e p="CustomAttributeNamedArgument.cs" t="Include" />
+      <e p="CustomAttributeTypedArgument.cs" t="Include" />
+      <e p="CustomModifiers.cs" t="Include" />
+      <e p="Emit" t="Include">
+        <e p="AssemblyBuilder.cs" t="Include" />
+        <e p="ConstructorBuilder.cs" t="Include" />
+        <e p="CustomAttributeBuilder.cs" t="Include" />
+        <e p="CustomModifiersBuilder.cs" t="Include" />
+        <e p="EnumBuilder.cs" t="Include" />
+        <e p="Enums.cs" t="Include" />
+        <e p="EventBuilder.cs" t="Include" />
+        <e p="ExceptionHandler.cs" t="Include" />
+        <e p="FieldBuilder.cs" t="Include" />
+        <e p="ILGenerator.cs" t="Include" />
+        <e p="MethodBuilder.cs" t="Include" />
+        <e p="ModuleBuilder.cs" t="Include" />
+        <e p="OpCode.cs" t="Include" />
+        <e p="OpCodes.cs" t="Include" />
+        <e p="ParameterBuilder.cs" t="Include" />
+        <e p="PropertyBuilder.cs" t="Include" />
+        <e p="SignatureHelper.cs" t="Include" />
+        <e p="Tokens.cs" t="Include" />
+        <e p="TypeBuilder.cs" t="Include" />
+      </e>
+      <e p="Enums.cs" t="Include" />
+      <e p="EventInfo.cs" t="Include" />
+      <e p="ExceptionHandlingClause.cs" t="Include" />
+      <e p="FieldInfo.cs" t="Include" />
+      <e p="FieldSignature.cs" t="Include" />
+      <e p="Fusion.cs" t="Include" />
+      <e p="GenericWrappers.cs" t="Include" />
+      <e p="Impl" t="Include">
+        <e p="ITypeOwner.cs" t="Include" />
+        <e p="SymbolSupport.cs" t="Include" />
+      </e>
+      <e p="InterfaceMapping.cs" t="Include" />
+      <e p="LocalVariableInfo.cs" t="Include" />
+      <e p="ManifestResourceInfo.cs" t="Include" />
+      <e p="MarshalSpec.cs" t="Include" />
+      <e p="MemberInfo.cs" t="Include" />
+      <e p="Metadata" t="Include">
+        <e p="CliHeader.cs" t="Include" />
+        <e p="MetadataRW.cs" t="Include" />
+        <e p="Tables.cs" t="Include" />
+      </e>
+      <e p="MethodBase.cs" t="Include" />
+      <e p="MethodBody.cs" t="Include" />
+      <e p="MethodImplMap.cs" t="Include" />
+      <e p="MethodInfo.cs" t="Include" />
+      <e p="MethodSignature.cs" t="Include" />
+      <e p="Missing.cs" t="Include" />
+      <e p="Module.cs" t="Include" />
+      <e p="ParameterInfo.cs" t="Include" />
+      <e p="ParameterModifier.cs" t="Include" />
+      <e p="Projection.cs" t="Include" />
+      <e p="PropertyInfo.cs" t="Include" />
+      <e p="PropertySignature.cs" t="Include" />
+      <e p="Reader" t="Include">
+        <e p="AssemblyReader.cs" t="Include" />
+        <e p="Authenticode.cs" t="Include" />
+        <e p="ByteReader.cs" t="Include" />
+        <e p="EventInfoImpl.cs" t="Include" />
+        <e p="Field.cs" t="Include" />
+        <e p="GenericTypeParameter.cs" t="Include" />
+        <e p="MetadataReader.cs" t="Include" />
+        <e p="Method.cs" t="Include" />
+        <e p="ModuleReader.cs" t="Include" />
+        <e p="PEReader.cs" t="Include" />
+        <e p="PropertyInfoImpl.cs" t="Include" />
+        <e p="ResourceModule.cs" t="Include" />
+        <e p="TypeDefImpl.cs" t="Include" />
+      </e>
+      <e p="Signature.cs" t="Include" />
+      <e p="StandAloneMethodSig.cs" t="Include" />
+      <e p="StrongNameKeyPair.cs" t="Include" />
+      <e p="Type.cs" t="Include" />
+      <e p="TypeInfo.cs" t="Include" />
+      <e p="TypeNameParser.cs" t="Include" />
+      <e p="Universe.cs" t="Include" />
+      <e p="Util.cs" t="Include" />
+      <e p="Writer" t="Include">
+        <e p="ByteBuffer.cs" t="Include" />
+        <e p="Heaps.cs" t="Include" />
+        <e p="MetadataWriter.cs" t="Include" />
+        <e p="ModuleWriter.cs" t="Include" />
+        <e p="PEWriter.cs" t="Include" />
+        <e p="ResourceSection.cs" t="Include" />
+        <e p="TextSection.cs" t="Include" />
+        <e p="VersionInfo.cs" t="Include" />
+      </e>
+      <e p="coreclr.cs" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$/../../class/lib/net_4_x-linux" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Properties" t="Include" />
+      <e p="mkbundle-net_4_x.csproj" t="IncludeRecursive" />
+      <e p="mkbundle.cs" t="Include" />
+      <e p="mkbundle.sln" t="IncludeFlat" />
+      <e p="obj-net_4_x-linux" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="template.c" t="Include" />
+      <e p="template_main.c" t="Include" />
+      <e p="template_z.c" t="Include" />
+    </e>
+  </component>
+</project>
